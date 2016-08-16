@@ -1,2 +1,2 @@
-Public class hola{
+public class hola{
 }
